@@ -29,7 +29,7 @@ A vibrant, fully responsive animated product landing page for a fictional milksh
 
 ```text
 📦 milkshake-brand-landing-page
- ┣ 📂 dist            # Production-ready minified files
+ ┣ 📂 src            # Production-ready minified files
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 style.css
  ┃ ┗ 📜 script.js
@@ -49,7 +49,7 @@ You only need a modern web browser (Chrome, Firefox, Safari, Edge).
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/yourusername/milkshake-brand-landing-page-css-slider-marquee-ticker-custom-cursor.git
+   git clone:(https://github.com/ManasBisht81/Milk-shake-brand-landing-page.git)
    ```
 2. **Navigate to the project directory:**
    ```bash
